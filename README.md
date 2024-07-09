@@ -1,4 +1,4 @@
-# Conda environment with environment.yml
+# Environment with environment.yml
 
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZianneO/BSGP7030PythonStats/HEAD)
 
